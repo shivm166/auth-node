@@ -1,0 +1,20 @@
+{
+  "name": "auth-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shivm166/auth-node.git"
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivm166/auth-node/issues"
+  },
+  "homepage": "https://github.com/shivm166/auth-node#readme",
+  "description": ""
+}
